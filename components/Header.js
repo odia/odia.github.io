@@ -15,9 +15,11 @@ const Header = (props) => (
         </div>
         <nav>
             <ul>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('quienes_somos')}}>&iquest;Quiénes somos?</a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('proyectos')}}>Proyectos</a></li>
-                <li><a href="https://twitter.com/odiaasoc" target="_blank">Twitter</a></li>
+                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('quienes_somos')}}>&iquest;Quiénes somos?</a></li>
+                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('trabajo')}}>Nuestro trabajo</a></li>
+                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('debates')}}>Debates</a></li>
+                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('colaboracion')}}>Colaboración</a></li>
+                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('redes_sociales')}}>Redes Sociales</a></li>
             </ul>
         </nav>
     </header>
