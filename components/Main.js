@@ -21,6 +21,13 @@ class Main extends React.Component {
             <p>En ese sentido, entendemos que es necesario investigar con rigurosidad técnica todas las situaciones derivadas del uso de nuevas tecnologías y cómo estas afectan nuestras vidas diarias. De esa manera, se podrá tener un entendimiento acabado de las nuevas realidades digitales y podremos entendernos como ciudadanes en esta nueva “virtualidad”. </p>
             <p>Para ello hacemos litigio estratégico, brindamos conferencias, realizamos trabajos de investigación y hacemos proyectos para ayudar a la ciudadanía en general no solo a proteger sus derechos sino también a entenderlos y conocerlos.</p>
             <p>Te esperamos para debatir cuál es el mundo que hay detrás de esta pantalla.</p>
+            <ul>
+                <li><img src="/static/images/agustin-malpede.jpg" />Agustín Malpede</li>
+                <li><img src="/static/images/marina-flego-eiras.jpg" />Marina Flego Eiras</li>
+                <li><img src="/static/images/martin-silva-valent.jpg" />Martín Silva Valent</li>
+                <li><img src="/static/images/sebastian-waisbrot.jpg" />Sebastián Waisbrot</li>
+                <li><img src="/static/images/tomas-pomar.jpg" />Tomás Pomar</li>
+            </ul>
           {close}
         </article>
 

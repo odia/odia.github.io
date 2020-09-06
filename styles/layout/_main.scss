@@ -45,6 +45,29 @@
 				display: block !important;
 			}
 
+            ul, ul li {
+                list-style: none;
+            }
+
+            ul {
+                display: flex;
+                flex-flow: row wrap;
+                align-content: flex-start;
+                li {
+                    width: 25%;
+                    text-align: center;
+                    margin-bottom: 30px;
+                    font-size: 12pt;
+                    img {
+                        border-radius: 50%;
+                        filter: grayscale(1);
+                        &:hover {
+                            filter: grayscale(0);
+                        }
+                    }
+                }
+            }
+
 			img {
 				width: 100%;
 			}
