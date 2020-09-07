@@ -23,6 +23,8 @@ class Main extends React.Component {
             <p>Te esperamos para debatir cuál es el mundo que hay detrás de esta pantalla.</p>
             <ul>
                 <li><img src="/static/images/agustin-malpede.jpg" />Agustín Malpede</li>
+                <li><img src="/static/images/guido-vilariño.jpg" />Guido Vilariño</li>
+                <li><img src="/static/images/juan-ribera.jpg" />Juan Ribera</li>
                 <li><img src="/static/images/marina-flego-eiras.jpg" />Marina Flego Eiras</li>
                 <li><img src="/static/images/martin-silva-valent.jpg" />Martín Silva Valent</li>
                 <li><img src="/static/images/sebastian-waisbrot.jpg" />Sebastián Waisbrot</li>
