@@ -31,6 +31,7 @@ class Main extends React.Component {
                 <li><img src="/static/images/martin-silva-valent.jpg" />Martín Silva Valent</li>
                 <li><img src="/static/images/sebastian-waisbrot.jpg" />Sebastián Waisbrot</li>
                 <li><img src="/static/images/tomas-pomar.jpg" />Tomás Pomar</li>
+                <li><img src="/static/images/victor-atila-castillejo-arias.png" />Victor Atila Castillejo Arias</li>
             </ul>
           {close}
         </article>
