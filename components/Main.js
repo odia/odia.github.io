@@ -27,6 +27,7 @@ class Main extends React.Component {
                 <li><img src="/static/images/ezequiel-quaine.jpg" />Ezequiel Quaine</li>
                 <li><img src="/static/images/guido-vilariño.jpg" />Guido Vilariño</li>
                 <li><img src="/static/images/juan-ribera.jpg" />Juan Ribera</li>
+                <li><img src="/static/images/marcela-pallero.jpg" />Marcela Pallero</li>
                 <li><img src="/static/images/marina-flego-eiras.jpg" />Marina Flego Eiras</li>
                 <li><img src="/static/images/martin-silva-valent.jpg" />Martín Silva Valent</li>
                 <li><img src="/static/images/sebastian-waisbrot.jpg" />Sebastián Waisbrot</li>
