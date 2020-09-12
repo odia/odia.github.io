@@ -2,10 +2,10 @@
 
 Ámbito de intercambio y aprendizaje mutuo entre abogadxs e informáticxs.
 
-[Quiénes somos](markdown/quienes_somos.md)
-[Nuestro trabajo](markdown/trabajo.md)
-[Debates](markdown/debates.md)
-[Colaboración](markdown/colaboracion.md)
+* [Quiénes somos](markdown/quienes_somos.md)
+* [Nuestro trabajo](markdown/trabajo.md)
+* [Debates](markdown/debates.md)
+* [Colaboración](markdown/colaboracion.md)
 
 ## Redes sociales
 
