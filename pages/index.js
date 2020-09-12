@@ -79,12 +79,12 @@ class IndexPage extends React.Component {
                         <meta property="og:locale" content="es_AR" />
                         <meta name="description" content="Ámbito de intercambio y aprendizaje mutuo entre abogadxs e informáticxs." />
                         <meta property="og:description" content="Ámbito de intercambio y aprendizaje mutuo entre abogadxs e informáticxs." />
-                        <link rel="canonical" href="https://odia.github.io/" />
-                        <meta property="og:url" content="https://odia.github.io/" />
+                        <link rel="canonical" href="https://odia.legal/" />
+                        <meta property="og:url" content="https://odia.legal/" />
                         <meta property="og:site_name" content="Observatorio de Derecho Informático Argentino" />
-                        <meta property="og:image" content="https://odia.github.io/static/images/odia_logo.jpg" />
+                        <meta property="og:image" content="https://odia.legal/static/images/odia_logo.jpg" />
                         <meta name="twitter:card" content="summary" />
-                        <meta property="twitter:image" content="https://odia.github.io/static/images/odia_logo.jpg" />
+                        <meta property="twitter:image" content="https://odia.legal/static/images/odia_logo.jpg" />
                         <meta property="twitter:title" content="Observatorio de Derecho Informático Argentino" />
                         <meta name="twitter:site" content="@odiaasoc" />
                     </Head>
