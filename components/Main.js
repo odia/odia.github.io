@@ -10,6 +10,7 @@ import FontAwesomeIcon from '@fortawesome/react-fontawesome'
 import faTwitter from '@fortawesome/fontawesome-free-brands/faTwitter'
 import faFacebook from '@fortawesome/fontawesome-free-brands/faFacebook'
 import faLinkedin from '@fortawesome/fontawesome-free-brands/faLinkedin'
+import faMedium from '@fortawesome/fontawesome-free-brands/faMedium'
 import faGithub from '@fortawesome/fontawesome-free-brands/faGithub'
 
 class Main extends React.Component {
@@ -51,6 +52,9 @@ class Main extends React.Component {
             </a></li>
             <li><a href="https://www.linkedin.com/company/odiaasoc/" target="_blank">
               <FontAwesomeIcon icon={faLinkedin} />
+            </a></li>
+            <li><a href="https://medium.com/@odiaasoc" target="_blank">
+              <FontAwesomeIcon icon={faMedium} />
             </a></li>
             <li><a href="https://github.com/odia/" target="_blank">
               <FontAwesomeIcon icon={faGithub} />
