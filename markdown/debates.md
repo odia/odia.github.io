@@ -11,3 +11,7 @@ En abril del 2020, ODIA participó de una reunión con la Ministra de Seguridad 
 En julio del 2020 ODIA participó del RightsCon junto a decenas de ONGs y otras organizaciones de la sociedad civil mediante la cual planteamos los problemas derivados del uso de los Sistemas de Reconocimiento Facial alrededor del mundo. Asimismo, pudimos brindarle nuestras preocupaciones a las empresas que proveen estas tecnologías bajo el argumento no solo de una moratoria en el uso de esta tecnología sino por la prohibición del uso de ella.
 
 ![](/static/images/civilsocialstrategy.jpeg)
+
+## Retenciones al Soft: Una medida ciega a la realidad y la Constitución
+
+El 28 de diciembre de 2018, el Poder Ejecutivo fijó a través de un Decreto de Necesidad y Urgencia una retención del 12% a la exportación de servicios informáticos desde nuestro país. El mismo, ha dado lugar a diversas posiciones respecto a su validez, así como un rechazo generalizado por parte de la comunidad informática nacional. Atento a esto, desde ODIA, compartimos nuestro análisis con toda la comunidad. [Leer artículo](https://medium.com/@odiaasoc/retenciones-al-soft-una-medida-ciega-a-la-realidad-y-la-constituci%C3%B3n-9523d71f8c96).
