@@ -14,3 +14,9 @@
 * [LinkedIn](https://www.linkedin.com/company/odiaasoc/)
 * [Medium](https://medium.com/@odiaasoc)
 * [GitHub](https://github.com/odia/)
+
+## Para actualizar la página
+
+```
+rm -rf out && npm run export && touch out/.nojekyll && echo -n odia.legal > out/CNAME && gh-pages -t -d out
+```
