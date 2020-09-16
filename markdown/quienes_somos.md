@@ -17,6 +17,7 @@ Te esperamos para debatir cuál es el mundo que hay detrás de esta pantalla.
 * ![""](/static/images/ezequiel-quaine.jpg)Ezequiel Quaine
 * ![""](/static/images/guido-vilariño.jpg)Guido Vilariño
 * ![""](/static/images/juan-ribera.jpg)Juan Ribera
+* ![""](/static/images/luciana-pylypec.jpg)Luciana Pylypec
 * ![""](/static/images/marcela-pallero.jpg)Marcela Pallero
 * ![""](/static/images/marina-flego-eiras.jpg)Marina Flego Eiras
 * ![""](/static/images/martin-silva-valent.jpg)Martín Silva Valent
