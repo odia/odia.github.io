@@ -11,6 +11,7 @@ import faFacebook from '@fortawesome/fontawesome-free-brands/faFacebook'
 import faLinkedin from '@fortawesome/fontawesome-free-brands/faLinkedin'
 import faMedium from '@fortawesome/fontawesome-free-brands/faMedium'
 import faGithub from '@fortawesome/fontawesome-free-brands/faGithub'
+import faInstagram from '@fortawesome/fontawesome-free-brands/faInstagram'
 
 
 class Main extends React.Component {
@@ -44,6 +45,9 @@ class Main extends React.Component {
         <article id="redes_sociales" className={`${this.props.article === 'redes_sociales' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Redes Sociales</h2>
           <ul className="icons">
+            <li><a href="https://instagram.com/odiaasoc" target="_blank">
+              <FontAwesomeIcon icon={faInstagram} />
+            </a></li>
             <li><a href="https://twitter.com/odiaasoc" target="_blank">
               <FontAwesomeIcon icon={faTwitter} />
             </a></li>
