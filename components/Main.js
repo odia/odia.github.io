@@ -12,6 +12,7 @@ import faLinkedin from '@fortawesome/fontawesome-free-brands/faLinkedin'
 import faMedium from '@fortawesome/fontawesome-free-brands/faMedium'
 import faGithub from '@fortawesome/fontawesome-free-brands/faGithub'
 
+
 class Main extends React.Component {
   render() {
 
