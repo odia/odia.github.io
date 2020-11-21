@@ -74,7 +74,8 @@ class IndexPage extends React.Component {
                 <div>
                     <Head>
                         <title>O.D.I.A.</title>
-                        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
+                        <link href="https://fonts.googleapis.com/css?family=Raleway:300,300i,600,600i" rel="stylesheet" />
+                        <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,600,600i" rel="stylesheet" />
                         <meta property="og:title" content="Observatorio de Derecho Informático Argentino" />
                         <meta property="og:locale" content="es_AR" />
                         <meta name="description" content="Ámbito de intercambio y aprendizaje mutuo entre abogadxs e informáticxs." />
