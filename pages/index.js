@@ -82,9 +82,9 @@ class IndexPage extends React.Component {
                         <link rel="canonical" href="https://odia.legal/" />
                         <meta property="og:url" content="https://odia.legal/" />
                         <meta property="og:site_name" content="Observatorio de Derecho Informático Argentino" />
-                        <meta property="og:image" content="https://odia.legal/static/images/odia_logo.jpg" />
+                        <meta property="og:image" content="https://odia.legal/static/images/isologotipo.png" />
                         <meta name="twitter:card" content="summary" />
-                        <meta property="twitter:image" content="https://odia.legal/static/images/odia_logo.jpg" />
+                        <meta property="twitter:image" content="https://odia.legal/static/images/isologotipo.png" />
                         <meta property="twitter:title" content="Observatorio de Derecho Informático Argentino" />
                         <meta name="twitter:site" content="@odiaasoc" />
                     </Head>
