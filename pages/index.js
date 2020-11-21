@@ -88,6 +88,7 @@ class IndexPage extends React.Component {
                         <meta property="twitter:image" content="https://odia.legal/static/images/isologotipo.png" />
                         <meta property="twitter:title" content="Observatorio de Derecho Informático Argentino" />
                         <meta name="twitter:site" content="@odiaasoc" />
+                        <link rel="icon" href="static/images/favicon.ico" type="image/x-icon" />
                     </Head>
 
                     <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
