@@ -10,7 +10,7 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>Observatorio de Derecho<br />Informático Argentino</h1>
-                <p>Ámbito de intercambio y aprendizaje mutuo entre abogadxs e informáticxs.</p>
+                <p>Ámbito de intercambio y aprendizaje mutuo entre abogades e informátiques.</p>
             </div>
         </div>
         <nav>

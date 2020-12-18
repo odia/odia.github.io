@@ -78,8 +78,8 @@ class IndexPage extends React.Component {
                         <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,600,600i" rel="stylesheet" />
                         <meta property="og:title" content="Observatorio de Derecho Informático Argentino" />
                         <meta property="og:locale" content="es_AR" />
-                        <meta name="description" content="Ámbito de intercambio y aprendizaje mutuo entre abogadxs e informáticxs." />
-                        <meta property="og:description" content="Ámbito de intercambio y aprendizaje mutuo entre abogadxs e informáticxs." />
+                        <meta name="description" content="Ámbito de intercambio y aprendizaje mutuo entre abogades e informátiques." />
+                        <meta property="og:description" content="Ámbito de intercambio y aprendizaje mutuo entre abogades e informátiques." />
                         <link rel="canonical" href="https://odia.legal/" />
                         <meta property="og:url" content="https://odia.legal/" />
                         <meta property="og:site_name" content="Observatorio de Derecho Informático Argentino" />

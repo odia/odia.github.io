@@ -1,6 +1,6 @@
 # Observatorio de Derecho Informático Argentino
 
-Ámbito de intercambio y aprendizaje mutuo entre abogadxs e informáticxs.
+Ámbito de intercambio y aprendizaje mutuo entre abogades e informátiques.
 
 * [Quiénes somos](markdown/quienes_somos.md)
 * [Nuestro trabajo](markdown/trabajo.md)
