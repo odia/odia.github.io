@@ -19,6 +19,7 @@ const Header = (props) => (
                 <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('trabajo')}}>Nuestro trabajo</a></li>
                 <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('debates')}}>Debates</a></li>
                 <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('colaboracion')}}>Colaboración</a></li>
+                <li><a href="https://marca.odia.legal/" target="_blank">Marca</a></li>
                 <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('redes_sociales')}}>Redes Sociales</a></li>
             </ul>
         </nav>
