@@ -1,16 +1,14 @@
 # ¿Quiénes somos?
 
-ODIA nace del cuestionamiento de los vínculos entre las personas y lo digital. Entendiendo que la ciudadanía no termina donde comienza una pantalla, nuestro compromiso está en investigar y actuar respecto de los derechos vulnerados por quienes sacan provecho del analfabetismo digital que la sociedad presenta.
+El Observatorio de Derecho Informático Argentino (O.D.I.A.) es una asociación civil sin fines de lucro. Fue creada con el objetivo de promover el ejercicio responsable de la ciudadanía digital y garantizar que los derechos de la comunidad sean respetados.
 
-Este proyecto se inicia entre un grupo de personas conformado por profesionales del derecho y un grupo de profesionales de sistemas e informática. Sí, nosotres también pensábamos que eran dos mundos diferentes. 
+Quienes formamos parte de O.D.I.A. entendemos que es necesario un espacio de debate acerca de los vínculos entre las personas y lo digital y creemos que la ciudadanía no termina donde comienza una pantalla. Nuestro compromiso es investigar y actuar respecto de los derechos vulnerados por quienes sacan provecho del analfabetismo digital que todavía existe en gran parte de la sociedad. Pero no solo queremos protegerlos sino también ayudar a que la comunidad los conozca y comprenda.
 
-Hoy ODIA cuenta con más de 20 profesionales y se está diversificando en sus ámbitos académicos. Es que el desarrollo y debate de una ciudadanía digital implica la participación de todas las áreas posibles.
+Llevar adelante esta tarea requiere compromiso y esfuerzo. Por eso, ante todo, O.D.I.A. es un equipo. Cuenta con más de 20 profesionales del mundo del derecho y de la informática, y también personas provenientes de diferentes ámbitos interesadas en el cruce del derecho y de las tecnologías de la información. La interdisciplinariedad es un eje central al momento de investigar con rigurosidad técnica aquellas situaciones derivadas del uso de nuevas tecnologías y cómo afectan nuestra vida cotidiana.
 
-En ese sentido, entendemos que es necesario investigar con rigurosidad técnica todas las situaciones derivadas del uso de nuevas tecnologías y cómo estas afectan nuestras vidas diarias. De esa manera, se podrá tener un entendimiento acabado de las nuevas realidades digitales y podremos entendernos como ciudadanes en esta nueva “virtualidad”. 
+Como parte de nuestras actividades, hacemos litigio estratégico, brindamos conferencias, realizamos trabajos de investigación y preparamos proyectos vinculados con educación para la ciudadanía en general.
 
-Para ello hacemos litigio estratégico, brindamos conferencias, realizamos trabajos de investigación y hacemos proyectos para ayudar a la ciudadanía en general no solo a proteger sus derechos sino también a entenderlos y conocerlos.
-
-Te esperamos para debatir cuál es el mundo que hay detrás de esta pantalla.
+Te invitamos a debatir cuál es el mundo que hay (y que nos gustaría que exista) detrás de esta pantalla. ¡Sumate!
 
 * ![""](/static/images/agustin-malpede.jpg)Agustín Malpede
 * ![""](/static/images/cynthia-paola-acosta.jpg)Cynthia Paola Acosta
@@ -20,8 +18,10 @@ Te esperamos para debatir cuál es el mundo que hay detrás de esta pantalla.
 * ![""](/static/images/luciana-pylypec.jpg)Luciana Pylypec
 * ![""](/static/images/lucila-ferretti.jpg)Lucila Ferretti
 * ![""](/static/images/marcela-pallero.jpg)Marcela Pallero
+* ![""](/static/images/maria-trevisani-vespa.png)María Trevisani Vespa
 * ![""](/static/images/marina-flego-eiras.jpg)Marina Flego Eiras
 * ![""](/static/images/martin-silva-valent.jpg)Martín Silva Valent
+* ![""](/static/images/rodrigo-iglesias.jpg)Rodrigo Iglesias
 * ![""](/static/images/sebastian-waisbrot.jpg)Sebastián Waisbrot
 * ![""](/static/images/tomas-pomar.jpg)Tomás Pomar
 * ![""](/static/images/victor-atila-castillejo-arias.png)Victor Atila Castillejo Arias
