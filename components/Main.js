@@ -13,6 +13,7 @@ import faLinkedin from '@fortawesome/fontawesome-free-brands/faLinkedin'
 import faMedium from '@fortawesome/fontawesome-free-brands/faMedium'
 import faGithub from '@fortawesome/fontawesome-free-brands/faGithub'
 import faInstagram from '@fortawesome/fontawesome-free-brands/faInstagram'
+import faTelegram from '@fortawesome/fontawesome-free-brands/faTelegram'
 
 
 class Main extends React.Component {
@@ -63,6 +64,9 @@ class Main extends React.Component {
             </a></li>
             <li><a href="https://github.com/odia/" target="_blank">
               <FontAwesomeIcon icon={faGithub} />
+            </a></li>
+            <li><a href="https://t.me/odiaasoc" target="_blank">
+              <FontAwesomeIcon icon={faTelegram} />
             </a></li>
           </ul>
           {close}
