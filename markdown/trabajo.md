@@ -6,12 +6,11 @@ Desde 2019 le preguntamos al Gobierno de la Ciudad de Buenos Aires por el Sistem
 
 En base a esto iniciamos una acción para pedir la desconexión del sistema.
 
-## Acceso a la información App CUID.AR
+## App CUID.AR
 
 Durante el Aislamiento Social Preventivo y Obligatorio por la epidemia de COVID-19, el Gobierno Nacional publicó la aplicación "CUID.AR" para monitorear el estado de salud de los ciudadanos y asistir en la obtención de permisos de circulación. Desde O.D.I.A. quisimos averiguar cómo funciona esta aplicación y cómo se guardan sus datos, que son considerados sensibles por su característica médica, demandando así una mayor protección.
 
 Decidimos preguntarle al Gobierno Nacional sobre el funcionamiento de este sistema, y [nos respondió](/static/documents/respuestas-cuidar.pdf), entre otras cosas, que guardaba los datos médicos sensibles en servidores fuera del país, en contra de lo que estipula la Ley de Protección de Datos Personales.
-
 
 ## LEX-100
 
