@@ -22,8 +22,6 @@ Te invitamos a debatir cuál es el mundo que hay (y que nos gustaría que exista
 * ![""](/static/images/maria-trevisani-vespa.png)María Trevisani Vespa
 * ![""](/static/images/marina-flego-eiras.jpg)Marina Flego Eiras
 * ![""](/static/images/martin-silva-valent.jpg)Martín Silva Valent
-* ![""](/static/images/martina-cantaro.jpg)Martina Cantaro
 * ![""](/static/images/rodrigo-iglesias.jpg)Rodrigo Iglesias
 * ![""](/static/images/sebastian-waisbrot.jpg)Sebastián Waisbrot
 * ![""](/static/images/tomas-pomar.jpg)Tomás Pomar
-* ![""](/static/images/victor-atila-castillejo-arias.png)Victor Atila Castillejo Arias
