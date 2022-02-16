@@ -24,4 +24,5 @@ Te invitamos a debatir cuál es el mundo que hay (y que nos gustaría que exista
 * ![""](/static/images/martin-silva-valent.jpg)Martín Silva Valent
 * ![""](/static/images/rodrigo-iglesias.jpg)Rodrigo Iglesias
 * ![""](/static/images/sebastian-waisbrot.jpg)Sebastián Waisbrot
+* ![""](/static/images/eliana-andrade.png)Eliana Andrade
 * ![""](/static/images/tomas-pomar.jpg)Tomás Pomar
