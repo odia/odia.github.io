@@ -23,7 +23,7 @@ Te invitamos a debatir cuál es el mundo que hay (y que nos gustaría que exista
 * ![""](/static/images/maria-trevisani-vespa.png)María Trevisani Vespa
 * ![""](/static/images/marina-flego-eiras.jpg)Marina Flego Eiras
 * ![""](/static/images/martin-silva-valent.jpg)Martín Silva Valent
-* ![""](/static/images/paula-szewach.jpg)Paula Szewach
+* ![""](/static/images/paula-szewach.png)Paula Szewach
 * ![""](/static/images/rodrigo-iglesias.jpg)Rodrigo Iglesias
 * ![""](/static/images/sebastian-waisbrot.jpg)Sebastián Waisbrot
 * ![""](/static/images/tomas-pomar.jpg)Tomás Pomar
