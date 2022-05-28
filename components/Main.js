@@ -20,7 +20,10 @@ class Main extends React.Component {
   render() {
 
     let close = <button className="close" onClick={() => {this.props.onCloseArticle()}} aria-label="Cerrar" role="button"></button>
-    const render = (text) => <ReactMarkdown source={text} renderers={{heading: (props) => React.createElement(`h${props.level+1}`, props.level === 1 ? {className: 'major'} : {}, props.children)}} />
+    const render = (text) => <ReactMarkdown source={text} renderers={{
+        heading: (props) => React.createElement(`h${props.level+1}`, props.level === 1 ? {className: 'major'} : {}, props.children),
+        image: (props) => React.createElement('img', {'alt': props.alt || '', 'src': props.src}, props.children),
+    }} />
 
     return (
       <div id="main" style={this.props.timeout ? {display: 'flex'} : {display: 'none'}}>
