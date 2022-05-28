@@ -70,7 +70,7 @@ class IndexPage extends React.Component {
     }
     render() {
         return (
-            <div className={`body ${this.state.loading} ${this.state.isArticleVisible ? "is-article-visible" : ""}`} lang="es">
+            <div className={`body ${this.state.loading} ${this.state.isArticleVisible ? "is-article-visible" : ""}`}>
                 <div>
                     <Head>
                         <title>O.D.I.A.</title>
