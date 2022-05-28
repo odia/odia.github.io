@@ -51,25 +51,25 @@ class Main extends React.Component {
           <h2 className="major">Redes Sociales</h2>
           <ul className="icons">
             <li><a href="https://instagram.com/odiaasoc" target="_blank">
-              <FontAwesomeIcon icon={faInstagram} />
+              <FontAwesomeIcon icon={faInstagram} aria-label="instagram" />
             </a></li>
             <li><a href="https://twitter.com/odiaasoc" target="_blank">
-              <FontAwesomeIcon icon={faTwitter} />
+              <FontAwesomeIcon icon={faTwitter} aria-label="twitter" />
             </a></li>
             <li><a href="https://www.facebook.com/ODIAasoc" target="_blank">
-              <FontAwesomeIcon icon={faFacebook} />
+              <FontAwesomeIcon icon={faFacebook} aria-label="facebook" />
             </a></li>
             <li><a href="https://www.linkedin.com/company/odiaasoc/" target="_blank">
-              <FontAwesomeIcon icon={faLinkedin} />
+              <FontAwesomeIcon icon={faLinkedin} aria-label="linkedin" />
             </a></li>
             <li><a href="https://medium.com/@odiaasoc" target="_blank">
-              <FontAwesomeIcon icon={faMedium} />
+              <FontAwesomeIcon icon={faMedium} aria-label="medium" />
             </a></li>
             <li><a href="https://github.com/odia/" target="_blank">
-              <FontAwesomeIcon icon={faGithub} />
+              <FontAwesomeIcon icon={faGithub} aria-label="github" />
             </a></li>
             <li><a href="https://t.me/odiaasoc" target="_blank">
-              <FontAwesomeIcon icon={faTelegram} />
+              <FontAwesomeIcon icon={faTelegram} aria-label="telegram" />
             </a></li>
           </ul>
           {close}
