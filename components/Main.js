@@ -19,7 +19,7 @@ import faTelegram from '@fortawesome/fontawesome-free-brands/faTelegram'
 class Main extends React.Component {
   render() {
 
-    let close = <div className="close" onClick={() => {this.props.onCloseArticle()}}></div>
+    let close = <div className="close" role="button" onClick={() => {this.props.onCloseArticle()}} aria-label="Cerrar"></div>
     const render = (text) => <ReactMarkdown source={text} renderers={{heading: (props) => React.createElement(`h${props.level+1}`, props.level === 1 ? {className: 'major'} : {}, props.children)}} />
 
     return (
