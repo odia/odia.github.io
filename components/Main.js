@@ -19,30 +19,30 @@ import faTelegram from '@fortawesome/fontawesome-free-brands/faTelegram'
 class Main extends React.Component {
   render() {
 
-    let close = <div className="close" role="button" onClick={() => {this.props.onCloseArticle()}} aria-label="Cerrar"></div>
+    let close = <button className="close" onClick={() => {this.props.onCloseArticle()}} aria-label="Cerrar" role="button"></button>
     const render = (text) => <ReactMarkdown source={text} renderers={{heading: (props) => React.createElement(`h${props.level+1}`, props.level === 1 ? {className: 'major'} : {}, props.children)}} />
 
     return (
       <div id="main" style={this.props.timeout ? {display: 'flex'} : {display: 'none'}}>
 
         <article id="quienes_somos" className={`${this.props.article === 'quienes_somos' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          {render(QuienesSomos)}
           {close}
+          {render(QuienesSomos)}
         </article>
 
         <article id="trabajo" className={`${this.props.article === 'trabajo' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          {render(Trabajo)}
           {close}
+          {render(Trabajo)}
         </article>
 
         <article id="debates" className={`${this.props.article === 'debates' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          {render(Debates)}
           {close}
+          {render(Debates)}
         </article>
 
         <article id="colaboracion" className={`${this.props.article === 'colaboracion' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          {render(Colaboracion)}
           {close}
+          {render(Colaboracion)}
         </article>
         <article id="redes_sociales" className={`${this.props.article === 'redes_sociales' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Redes Sociales</h2>

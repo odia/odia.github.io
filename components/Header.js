@@ -15,12 +15,12 @@ const Header = (props) => (
         </div>
         <nav>
             <ul>
-                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('quienes_somos')}}>&iquest;Quiénes somos?</a></li>
-                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('trabajo')}}>Nuestro trabajo</a></li>
-                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('debates')}}>Debates</a></li>
-                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('colaboracion')}}>Colaboración</a></li>
-                <li><a href="https://marca.odia.legal/" target="_blank">Marca</a></li>
-                <li><a href="#" onClick={(ev) => {ev.preventDefault();props.onOpenArticle('redes_sociales')}}>Redes Sociales</a></li>
+                <li><button onClick={(ev) => {ev.preventDefault();props.onOpenArticle('quienes_somos')}}>&iquest;Quiénes somos?</button></li>
+                <li><button onClick={(ev) => {ev.preventDefault();props.onOpenArticle('trabajo')}}>Nuestro trabajo</button></li>
+                <li><button onClick={(ev) => {ev.preventDefault();props.onOpenArticle('debates')}}>Debates</button></li>
+                <li><button onClick={(ev) => {ev.preventDefault();props.onOpenArticle('colaboracion')}}>Colaboración</button></li>
+                <li><button onClick={(ev) => {ev.preventDefault();location.href="https://marca.odia.legal/"}}>Marca</button></li>
+                <li><button onClick={(ev) => {ev.preventDefault();props.onOpenArticle('redes_sociales')}}>Redes Sociales</button></li>
             </ul>
         </nav>
     </header>
